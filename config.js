@@ -10,7 +10,7 @@ var config = {
     "musicVolume": 70,
     "text": {
         "title": "My Arpee Server",
-        "link": "discord.gg/yeet",
+        "link": "discord.gg/xpVGHd3",
     },
     /* You dont have to include the '/imgs/' dir AND ALSO REMEMBER TO ADD THESE IMGS IN YOUR __resource.lua*/ 
     "images": ['bg0.png', 'bg1.png', 'bg2.png', 'bg3.png', 'bg4.png', 'bg5.png', 'bg6.png', 'bg7.png']
